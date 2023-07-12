@@ -8,4 +8,4 @@ The Second Lab was about implementing a Linear State Feedback controller.
 ##
 The Third Lab was about Dynamic State Feedback so we can eliminate disturbances.
 ##
-The fourth lab was about implementing an Observer.
+The Fourth lab was about implementing an Observer.
