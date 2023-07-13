@@ -2,7 +2,7 @@
 A repo dedicated to all the lab sessions from my control theory class.
 The laboratory was about controlling an Electric Motor using Arduino and MATLAB. The reports are all in greek.
 ##
-The First Session was all about taking measurements from the motor itself, in order to determine System Parameters.
+The First Lab was all about taking measurements from the motor itself, in order to determine System Parameters.
 ##
 The Second Lab was about implementing a Linear State Feedback controller.
 ##
